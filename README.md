@@ -5,4 +5,4 @@ A repository for displaying fundamental programming concepts through exercises I
 Based on the free tutorial at [https://www.learn-cpp.org/](https://www.learn-cpp.org/).
 
 
-<img src=https://user-images.githubusercontent.com/99063625/183375255-fc4aeb40-ea14-4054-8d96-29dea82d1086.png width="480" height="480">
+<img src=https://user-images.githubusercontent.com/99063625/183375255-fc4aeb40-ea14-4054-8d96-29dea82d1086.png width="380" height="400">
