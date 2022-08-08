@@ -6,3 +6,8 @@ Based on the free tutorial at [https://www.learn-cpp.org/](https://www.learn-cpp
 
 
 <img src=https://user-images.githubusercontent.com/99063625/183375255-fc4aeb40-ea14-4054-8d96-29dea82d1086.png align="center" width="380" height="400">
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99063625/183375255-fc4aeb40-ea14-4054-8d96-29dea82d1086.png">
+</p>
